@@ -205,4 +205,4 @@ This repository serves as the official landing page for Adaware Antivirus Free. 
 **Get the most recent version of Adaware Antivirus Free today!**
 
 ---
-**Last updated:** 2026-11-07 17:53:34 UTC
+**Last updated:** 2026-11-07 21:09:52 UTC
